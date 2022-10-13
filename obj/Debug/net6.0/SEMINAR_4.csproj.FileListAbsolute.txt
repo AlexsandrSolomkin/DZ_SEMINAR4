@@ -1,0 +1,15 @@
+G:\________Учеба_________\С#\SEMINAR_4\obj\Debug\net6.0\SEMINAR_4.csproj.AssemblyReference.cache
+G:\________Учеба_________\С#\SEMINAR_4\obj\Debug\net6.0\SEMINAR_4.GeneratedMSBuildEditorConfig.editorconfig
+G:\________Учеба_________\С#\SEMINAR_4\obj\Debug\net6.0\SEMINAR_4.AssemblyInfoInputs.cache
+G:\________Учеба_________\С#\SEMINAR_4\obj\Debug\net6.0\SEMINAR_4.AssemblyInfo.cs
+G:\________Учеба_________\С#\SEMINAR_4\obj\Debug\net6.0\SEMINAR_4.csproj.CoreCompileInputs.cache
+G:\________Учеба_________\С#\SEMINAR_4\bin\Debug\net6.0\SEMINAR_4.exe
+G:\________Учеба_________\С#\SEMINAR_4\bin\Debug\net6.0\SEMINAR_4.deps.json
+G:\________Учеба_________\С#\SEMINAR_4\bin\Debug\net6.0\SEMINAR_4.runtimeconfig.json
+G:\________Учеба_________\С#\SEMINAR_4\bin\Debug\net6.0\SEMINAR_4.dll
+G:\________Учеба_________\С#\SEMINAR_4\bin\Debug\net6.0\SEMINAR_4.pdb
+G:\________Учеба_________\С#\SEMINAR_4\obj\Debug\net6.0\SEMINAR_4.dll
+G:\________Учеба_________\С#\SEMINAR_4\obj\Debug\net6.0\refint\SEMINAR_4.dll
+G:\________Учеба_________\С#\SEMINAR_4\obj\Debug\net6.0\SEMINAR_4.pdb
+G:\________Учеба_________\С#\SEMINAR_4\obj\Debug\net6.0\SEMINAR_4.genruntimeconfig.cache
+G:\________Учеба_________\С#\SEMINAR_4\obj\Debug\net6.0\ref\SEMINAR_4.dll
